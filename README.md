@@ -1,0 +1,8 @@
+# useless-machine
+useless machine
+
+용산철도고등학교의 1인 1기업 프로젝트 아이템.
+
+1%uC778%20%221%uAE30%uC5C5%22%uC778%uB370%20useless%20machine%uC774%uB77C%uB2C8%20%uC870%uAE08%20%uC774%uC0C1%uD558%uB2E4%uACE0%3F
+
+%uC4F8%uBAA8%uC5C6%uB294%uC9D3%uC744%20%uD55C%uB2E4%uB294%uAC8C%20%uAC00%uC7A5%20%uC7AC%uBBF8%uC788%uB294%20%uBD80%uBD84%uC774%uAC70%uB4E0%u314B.
