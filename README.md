@@ -1,11 +1,14 @@
 # useless-machine
-useless machine
+![ex_screenshot](./img/screenshot.png)
 
 용산철도고등학교의 1인 1기업 프로젝트 강의 아이템.
 
 스위치와 닿는 stick 끝에 고무 패드를 붙이는것을 추천합니다.
 
 비영리 목적으로 사용하신다면 개발자의 허락 없이 사용하셔도 괜찮습니다.
+
+wiring diagram
+![wiring_diagram](./img/useless machine wiring diagram.png)
 
 부품목록
 
