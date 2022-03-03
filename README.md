@@ -8,6 +8,7 @@
 비영리 목적으로 사용하신다면 개발자의 허락 없이 사용하셔도 괜찮습니다.
 
 wiring diagram
+
 ![wiring_diagram](./img/useless_machine_wiring_diagram.png)
 
 부품목록
