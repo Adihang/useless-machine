@@ -1,5 +1,6 @@
 # useless-machine
-![screenshot](./img/screenshot.png)
+<img width="693" alt="screenshot" src="https://github.com/Adihang/useless-machine/assets/56463432/2e673087-1bf1-4030-967b-dcfa3211e7f9">
+
 
 용산철도고등학교의 1인 1기업 프로젝트 강의 아이템.
 
